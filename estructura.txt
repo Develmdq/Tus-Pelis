@@ -1,7 +1,0 @@
-Un archivo index dentro de una carpeta se utiliza para que exporte archivos de esa carpeta.
-Y al momento de importarlos solo se referencia hasta la carpeta, ya que index lo toma por defecto.
-
-Si fue exportado por defecto (export default):
-
-import Nombre from './algo/algo2
-En la línea anterior estamos importando (variable, función, etc) con el nombre 'Nombre',
